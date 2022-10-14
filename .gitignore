@@ -1,0 +1,50 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.idea/
+.cache/
+# Misc
+*.swp
+.DS_Store
+.envrc
+.secrets
+.mypy_cache/
+
+# Distribution / Packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+.installed.cfg
+/*.egg-info
+/*.egg
+Pipfile
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+tests/.cache/
+.pytest_cache/
+htmlcov/
+.coverage
+
+# PyNotebook files
+*.pynb_checkpoints
+*.ipynb
+
+#VSCode
+*.vscode
+
+.venv/
+*.csv
+logs/
+log/
+fixtures/
+site/
+TODO
